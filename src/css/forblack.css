@@ -1,0 +1,16 @@
+
+span {
+    color: rgb(129, 45, 211)
+}
+.text{
+    font-size: 20px;
+   color: red;
+}
+.blok-text>p{
+    color: blue;
+}
+div{
+    font-family: arial, sans-serif;
+    font-style: italic;
+    font-weight: 100;
+}
